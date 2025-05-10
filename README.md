@@ -1,2 +1,2 @@
-# Spotify-Clone
-This is a Spotify Clone
+# Practice
+This is my first GitHub Repo
